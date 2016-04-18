@@ -1,0 +1,65 @@
+/**{outline: 1px solid rgba(255,0,0,04)}*//* Inserta tu CSS aqui */
+.menu ul{
+	margin: 10px auto;
+	text-align: center;
+}
+.menu li{
+	list-style-type: none;
+	display: inline;
+	margin-right: 50px;
+	font-family: Calibri;
+}
+.menu a{
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+}
+.cabecera{
+	background-image: url(../images/background.jpg);
+	max-width: 100%;
+	background-size: 100%;
+	color: #fff;
+}
+.cabecera{
+	text-align: center;
+	padding: 100px 0 100px;
+}
+.cabecera h1{
+	font-family: Verdana;
+	margin: 20px auto;
+}
+.cabecera p{
+	font-family: Georgia;
+}
+.descripcion .biografia{
+	margin-top: 50px;
+}
+.descripcion img{
+	max-width: 95%;
+}
+h2{
+	color: #7401DF;
+	margin-bottom: 20px;
+	text-align: center;
+	font-family: Calibri;
+}
+.descripcion p{
+	line-height: 20px;
+	text-align: justify;
+}
+.favorito p{
+	text-align: center;
+	margin-bottom: 20px;
+	color: #7401DF;
+}
+.scrol{
+	overflow: scroll;
+}
+.favorito img{
+	height: 200px;
+	width: 200px;
+	border-radius: 100px;
+	margin-right: 0px;
+	margin-left: 0px;
+
+}
