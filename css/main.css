@@ -31,6 +31,9 @@
 .cabecera p{
 	font-family: Georgia;
 }
+.descripcion{
+	margin-top: 50px;
+}
 .descripcion .biografia{
 	margin-top: 50px;
 }
@@ -47,13 +50,17 @@ h2{
 	line-height: 20px;
 	text-align: justify;
 }
+.favorito{
+	margin-top: 50px;
+}
 .favorito p{
 	text-align: center;
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 	color: #7401DF;
 }
 .scrol{
 	overflow: scroll;
+	height: 220px;
 }
 .favorito img{
 	height: 200px;
@@ -61,5 +68,15 @@ h2{
 	border-radius: 100px;
 	margin-right: 0px;
 	margin-left: 0px;
-
+	border: 2px solid  #7401DF;
+}
+.contacto{
+	background-color: #D8D8D8;
+	margin-top: 50px;
+	padding: 5%;
+	overflow: scroll;
+}
+.contacto img{
+	margin-left: 15%;
+	margin-right: -5px;
 }
